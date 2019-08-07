@@ -1,0 +1,6 @@
+{
+    "require": {
+        "knplabs/knp-snappy": "^1.1",
+        "dompdf/dompdf": "^0.8.3"
+    }
+}
